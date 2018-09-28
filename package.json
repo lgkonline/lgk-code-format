@@ -1,0 +1,24 @@
+{
+  "name": "lgk-code-format",
+  "version": "1.0.3",
+  "description": "A simple script that formats code. It replaces 2 space intents with 4 spaces and double quotes with single quotes.",
+  "main": "index.js",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgkonline/lgk-code-format.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "format",
+    "tool"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgkonline/lgk-code-format/issues"
+  },
+  "homepage": "https://github.com/lgkonline/lgk-code-format#readme"
+}
