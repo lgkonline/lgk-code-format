@@ -22,7 +22,7 @@ var vsCodeSettingsFile = vsCodeSettingsFolder + "/settings.json";
 
 var sourcesFolder = "./src";
 
-var extToFormat = [".js", ".css"];
+var extToFormat = [".js", ".jsx", ".ts", ".tsx", ".css"];
 
 var vsCodeSettingsFolderDidExistBefore = fs.existsSync(vsCodeSettingsFolder);
 
