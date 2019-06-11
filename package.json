@@ -1,6 +1,6 @@
 {
   "name": "lgk-code-format",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A simple script that formats code. It replaces 2 space intents with 4 spaces and double quotes with single quotes.",
   "main": "index.js",
   "bin": "index.js",
